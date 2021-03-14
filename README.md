@@ -75,6 +75,8 @@ My notes are basically based on the experience of the FLUX Delta+.
 >   * [嘖嘖 | CR-30 無限 Z 軸 3D 列印機｜在家也能實現神級專業印刷！](https://www.zeczec.com/projects/CR-30-3D)
 >   * [Creality 3DPrintMill(CR-30)- Belt 3D Printing For Everyone by Crealityofficial — Kickstarter](https://www.kickstarter.com/projects/3dprintmill/creality-infinite-z-axis-build-volume-printer-3dprintmill)
 
+* [3DPrintMill 3D Printer (CR-30)](https://www.creality.com/goods-detail/creality-3dprintmill-3d-printer)
+
 #### Related FAQ
 
 * How to use a third party PLA filament
@@ -108,9 +110,14 @@ My notes are basically based on the experience of the FLUX Delta+.
 * [Shapr3D](https://www.shapr3d.com/) (Great iPad App)
   * [3D Modeling Video Tutorials for All Levels | Shapr3D](https://www.shapr3d.com/learn/tutorials)
 
+## Printing Software
+
+* [OctoPrint.org](https://octoprint.org/)
+* [Ultimaker Cura: Powerful, easy-to-use 3D printing software](https://ultimaker.com/software/ultimaker-cura)
+
 ## Online Model Resources
 
-* [Thingiverse](https://www.thingiverse.com/)
+* [**Thingiverse**](https://www.thingiverse.com/)
 * [MyMiniFactory](https://www.myminifactory.com/)
 
 ## Other Related Links
@@ -118,3 +125,8 @@ My notes are basically based on the experience of the FLUX Delta+.
 * Slic3r
   * [Slic3r Manual](https://manual.slic3r.org/)
   * [Github](https://github.com/slic3r/Slic3r)
+
+### Youtuber
+
+* [3D Printing Nerd - YouTube](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ)
+* [Maker's Muse - YouTube](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg)
