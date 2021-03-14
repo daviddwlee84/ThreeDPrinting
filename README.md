@@ -1,4 +1,4 @@
-# 3D Printing
+# 3D Printing and Modeling
 
 My notes are basically based on the experience of the FLUX Delta+.
 
@@ -56,6 +56,8 @@ My notes are basically based on the experience of the FLUX Delta+.
 
 ### Machine
 
+#### FLUX
+
 > * [Official Website](https://tw.flux3dp.com/)
 > * [Facebook](https://www.facebook.com/flux3dp.tw/)
 
@@ -64,6 +66,14 @@ My notes are basically based on the experience of the FLUX Delta+.
   * FLUX USB Cable Driver
   * FLUX Delta Family Firmware
   * Toolhead Firmware
+
+#### Creality
+
+> * [Creality Leading 3D Printer Supplier & Manufacturer | Creality 3D](https://www.creality.com/)
+> * [Creality 創想三維](https://www.cxsw3d.com/)
+> * Crowdfunding
+>   * [嘖嘖 | CR-30 無限 Z 軸 3D 列印機｜在家也能實現神級專業印刷！](https://www.zeczec.com/projects/CR-30-3D)
+>   * [Creality 3DPrintMill(CR-30)- Belt 3D Printing For Everyone by Crealityofficial — Kickstarter](https://www.kickstarter.com/projects/3dprintmill/creality-infinite-z-axis-build-volume-printer-3dprintmill)
 
 #### Related FAQ
 
@@ -95,6 +105,8 @@ My notes are basically based on the experience of the FLUX Delta+.
 
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 * [Thinkercad](https://www.tinkercad.com/) (Online)
+* [Shapr3D](https://www.shapr3d.com/) (Great iPad App)
+  * [3D Modeling Video Tutorials for All Levels | Shapr3D](https://www.shapr3d.com/learn/tutorials)
 
 ## Online Model Resources
 
